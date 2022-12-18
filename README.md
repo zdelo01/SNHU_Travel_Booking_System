@@ -8,7 +8,7 @@
   I would approach developing programs by first understanding the requirements, then I would determine whether the waterfall model or agile methodology is better suited for the program’s development. I hope to incorporate Sprint Planning, Daily Scrums, Backlog Refinement, and Sprint Retrospective. “These events are important because they provide transparency and inspection throughout the project allowing teams to understand what they must always work on and adapt when necessary (DeLong, 2022).” “Another benefit of these events is that the team will build on their skills and become more accustomed to the collaborative aspect of agile development (DeLong, 2022).”  
   
 # What does it mean to be a good team member in software development?
-  A good team member in software development will have a self-management and cross-functional skillset. They will also be building on their experience, confidence, teamwork, respect, and overall skillset.  
+  A good team member in software development will have a self-management and cross-functional skillset. They will also be building on their experience, confidence, teamwork, respect, and skillsets.  
   
 # References 
 
