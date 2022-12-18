@@ -10,6 +10,6 @@
 # What does it mean to be a good team member in software development?
   A good team member in software development will have a self-management and cross-functional skillset. They will also be building on their experience, confidence, teamwork, respect, and overall skillset.  
   
-References 
+# References 
 
 DeLong, Z. M. (2022). 2-5 Scrum Master Journal [Unpublished paper]. Computer Science Department, Southern New Hampshire University. 
